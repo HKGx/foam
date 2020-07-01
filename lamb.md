@@ -1,0 +1,16 @@
+# Lamb
+[Lamb](https://github.com/HKGx/lamb) is a still WIP bot project that I have to "finish".
+It's meant for [a discord server](https://discord.gg/B4eqskz).
+
+
+It'll be mostly utility bot as it was firsly thought to help with #selfies channel.
+
+I'm still far far away from finishing it. I still have to design the toolchain that'll allow me for quick deployment of new features [[csharp-deployment-chain]].
+
+
+## Current features
+- ability to lose some coins on charity tokens
+
+## Planned features
+- somewhat automated way to manage #selfeies
+
